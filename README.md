@@ -121,16 +121,16 @@ c = float(input("Size: ")) <p>
 features = np.array([[a, b, c]]) <p>
 print("Predicted Diamond's Price = ", model.predict(features)) <p>
 
-![image](https://github.com/KalyanKumarBhogi/Analysing-and-Predicting-Diamond-Prices/assets/144279085/de6c1a25-5c02-4923-9e12-992c9678002b)
+![image](https://github.com/KalyanKumarBhogi/Analysing-and-Predicting-Diamond-Prices/assets/144279085/de6c1a25-5c02-4923-9e12-992c9678002b)  <p>
 **At first, we need to enter a value i.e. carat size.** <p>
-![image](https://github.com/KalyanKumarBhogi/Analysing-and-Predicting-Diamond-Prices/assets/144279085/9654ee27-a7fd-4617-8def-7feec7102e47)
-** Here I entered my 'a' value as 0.2** <p>
-![image](https://github.com/KalyanKumarBhogi/Analysing-and-Predicting-Diamond-Prices/assets/144279085/6cce1645-e226-4cec-ab5d-6e7f304c8bd4)
-**Here I entered my 'b' value as 5** <p>
-![image](https://github.com/KalyanKumarBhogi/Analysing-and-Predicting-Diamond-Prices/assets/144279085/abe8a0e3-9aea-4e97-ad35-566c04075cd2)
-**Here I entered my 'c' value as 20** <p>
-![image](https://github.com/KalyanKumarBhogi/Analysing-and-Predicting-Diamond-Prices/assets/144279085/20321657-e9f2-4592-97fb-cdeb617730ec)
-**After entering the 'c' value, we will predicted diamond value  <p>
+![image](https://github.com/KalyanKumarBhogi/Analysing-and-Predicting-Diamond-Prices/assets/144279085/9654ee27-a7fd-4617-8def-7feec7102e47)  <p>
+**Here I entered my 'a' value as 0.2.** <p>
+![image](https://github.com/KalyanKumarBhogi/Analysing-and-Predicting-Diamond-Prices/assets/144279085/6cce1645-e226-4cec-ab5d-6e7f304c8bd4)   <p>
+**Here I entered my 'b' value as 5.** <p>
+![image](https://github.com/KalyanKumarBhogi/Analysing-and-Predicting-Diamond-Prices/assets/144279085/abe8a0e3-9aea-4e97-ad35-566c04075cd2)  <p>
+**Here I entered my 'c' value as 20.** <p>
+![image](https://github.com/KalyanKumarBhogi/Analysing-and-Predicting-Diamond-Prices/assets/144279085/20321657-e9f2-4592-97fb-cdeb617730ec) <p>
+**After entering the 'c' value, we can predict diamond value.**  <p>
 
 # Summary
 After checking for all cut types, we can conclude that the price and size of premium diamonds are higher than other types of diamonds.  <p>
