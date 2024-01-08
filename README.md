@@ -141,6 +141,8 @@ print("Predicted Diamond's Price = ", model.predict(features)) <p>
 
 **After entering the 'c' value, we can predict the diamond value.**  <p>
 
-# Summary
 After checking for all cut types, we can conclude that the price and size of premium diamonds are higher than other types of diamonds.  <p>
+
+# Conclusion <p>
+The diamond price analysis conducted on a dataset containing attributes such as carat, cut, color, clarity, depth, table, and size revealed significant insights. A linear relationship between carat and diamond price was observed, indicating that higher carat sizes result in higher prices. The addition of a size column, calculated as the product of length, width, and depth, demonstrated a consistent linear relationship between diamond size and price across all types. Further examination of prices based on color and clarity revealed distinctions in the market. Premium-cut diamonds were found to be relatively larger, and a predictive model using Random Forest Regression successfully forecasted diamond prices based on carat size, cut type, and size. This analysis contributes valuable information for understanding the factors influencing diamond prices and facilitates accurate predictions in the diamond market.
 
